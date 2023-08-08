@@ -1,0 +1,355 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.navbar{
+  background-color:#F9FaFc;
+  display: flex;
+  align-items:center;
+  justify-content: space-between;
+  width: 101%;
+  height: 200px;
+}
+body{
+  font-family: 16px,'Merriweather', serif;
+  background-color: #ebf2ff;
+}
+
+}
+.zomato_container{
+  width:270px;
+
+}
+.zomato_logo{
+
+  width: 100%;
+  height: 180px;
+}
+.button_container{
+  margin: 10px;
+  width: 200px;
+  height: 70px;
+  padding-bottom: 25px;
+}
+.button_itself{
+  width: 100%;
+  font-size: 45px;
+  background-image: linear-gradient(to right, #ff512f ,#dd2476,#ff512f );
+  border-radius: 12px;
+  color:white;
+  font-weight: 600;
+  border: none;
+}
+.container{
+
+  width: 98%;
+  padding:  0px 15px;
+  padding-right:  900px;
+}
+.hero_image_container{
+  width: 100%;
+  margin-top: 40px;
+  position:relative;
+
+}
+.hero_image{
+  width:100%;
+  height: 75%;
+  position: absolute;
+  box-shadow: 0 25px 50px -12px rgb(0 0 0 / 25%);
+}
+}
+.hero_background{
+  position: relative;
+  top: 300px;
+}
+.hero_pattern{
+  position: absolute;
+  top: 200px;
+  width: 200px;
+}
+.text{
+  font-size: 80px;
+  font-weight: 800;
+  color: #1d3557;
+  font-family: 'Merriweather', serif;
+}
+.hero_button_container{
+  padding-top: 39px;
+}
+.hero_button{
+  margin: 40px;
+  padding: 20px;
+  width: 250px;
+  font-size: 38px;
+  background-image: linear-gradient(to right, #ff512f 0% ,#ff512f 51%, #dd2476 100%);
+  border-radius: 12px;
+  color:white;
+  font-weight: bold;
+  border: none;
+}
+.hero_button_container{
+  width: 100%;
+  height:150px;
+  align-items: center;
+
+}
+.burger_img_containe{
+  width: 100%;
+}
+.burger_logo{
+  width: 100%;
+  border-radius: 30px;
+}
+.heading_menu{
+margin-top: 100px;
+margin-bottom: 60px;
+  width: 100%;
+
+}
+.hero_text_container{
+  padding-top: 60px;
+}
+.main_menu{
+  font-weight: 800;
+  width: 100%;
+  margin:100px 150px;
+  font-size:80px;
+  font_font-family: 16px,'Merriweather', serif;
+
+}
+.item_name_container{
+  width:100%;
+
+}
+.burgers_text{
+  padding-left: 20px;
+  padding-bottom: 8px;
+  font-size:50px;
+}
+.item_place_container{
+  width: 100%;
+}
+.red{
+  color:#ff0000;
+    style:font_font-family: 30px,'Merriweather', serif;
+    font-size: 30px;
+    padding-left:20px;
+
+
+}
+.first_item_add{
+  padding-left: 22px;
+  font-weight: bold;
+  color:#1d3557;
+  font-size: 30px;
+}
+.pizza_main_container{
+  box-shadow: 0 25px 50px -12px rgb(0 0 0 / 25%);
+
+}
+.pizza_img_container{
+  width: 100%;
+  margin-top: 50px;
+  margin-left: 15px;
+  margin-right:10px;
+
+}
+.pizza_image{
+  width: 98%;
+  border-radius: 30px;
+
+}
+.heading_pizza{
+  width: 100%;
+  padding-left: 20px;
+}
+.Pizza{
+  font-size: 50%;
+
+
+}
+.heading_pizza{
+  margin-left: 15px;
+
+}
+.pizza{
+  font-weight: bold;
+  font-size: 50px;
+}
+.pizza_place_container{
+  margin-left: 15px;
+}
+.pizza_place{
+  padding-left: 22px;
+  font-weight: bold;
+  font-size: 30px;
+  color: #1d3557;
+}
+.red_container{
+  padding-left: 20px;
+}
+.red_itself{
+
+  color: red;
+  padding-left: 15px;
+  font-size: 30px;
+
+}
+.icecream_img_container{
+  width: 100%;
+
+}
+.iceCream_image{
+  width: 100%;
+  margin-left: 5px;
+  margin-top:30px;
+  border-radius: 30px;
+}
+.heading_icecream{
+  padding-left: 30px;
+  width: 100%;
+  padding-bottom: 5px;
+
+}
+.icecream{
+  font-weight: 800;
+  font-size: 50px;
+
+
+}
+.iceCream_place_container{
+  margin-left: 15px;
+  padding-left: 17px;
+
+}
+.iceCream_place{
+  font-size: 25px;
+  font-weight: bold;
+  color: #1d3557;
+  }
+.ice_red_container{
+    padding-left: 15px;
+    padding-left: 30px;
+
+  }
+  .ice_red_itself{
+    color: red;
+    font-size: 30px;
+  }
+  .pizza_main_continer{
+    box-shadow: 0 25px 50px -12px rgb(0 0 0 / 25%);
+
+  }
+  .burger_main_container{
+    box-shadow:0 25px 50px -12px rgb(0 0 0 /25%);
+  }
+.food_list_view_more{
+  width: 100%;
+  margin-top:9%;
+  margin-bottom: 9%;
+}
+.view_more{
+  width: 100%;
+  font-size: 48px;
+  border-radius: 15px;
+  background-image: linear-gradient(to right, #ff512f  , #dd2476, #ff512f);
+  color: white;
+  border: none;
+  padding-top: 40px;
+padding-bottom: 40px;
+font-family: 'Merriweather', serif;
+
+}
+.text_container{
+  font-family: 'Merriweather', serif;
+  font-size:60px;
+  font-weight: bolder;
+  color: #1d3557;
+
+}
+.main_container_for_four_photos{
+  width: 100%;
+  margin-top: 50px;
+}
+.container_for_two_photos{
+  width: 90%;
+  display: flex;
+  justify-content: space-between;
+}
+.restaurant1_container{
+  padding-top: 90px;
+  width: 100%;
+  padding-left: 10px;
+}
+.restaurant2_container{
+  padding-left: 30px;
+  width: 100%;
+  padding-top: 10px;
+
+}
+.restaurant1{
+  width: 400px;
+  height: 220px;
+border-radius: 12px;
+}
+.restaurant2{
+
+  width:500px;
+border-radius: 12px;
+height: 300px;
+
+}
+.container_for_another_two_photos{
+  padding-top: 30px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.restaurant4_container{
+  width: 100%;
+  padding-left: 18px;
+  padding-right: 15px;
+}
+.restaurant3_container{
+  width: 100%;
+  padding-right: 23px;
+  padding-left: 15px;
+}
+.restaurant4{
+  width: 100%;
+  border-radius: 12px;
+  width: 500px;
+  height: 300px;
+}
+.restaurant3{
+  width: 400px;
+  height: 220px;
+  border-radius: 12px;
+}
+.total_email_input_container{
+  width: 100%;
+  margin-top: 220px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.stay_updated{
+    font-family: 'Merriweather', serif;
+    font-size: 68px;
+}
+.email_input_and_getupdate{
+  display: flex;
+  width: 900px;
+  justify-content: space-between;
+}
+.get_update_button{
+  padding-top: 40px;
+  padding-bottom: 40px;
+  width: 300px;
+  font-size: 60px;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-family: "Arial";
+  background-image: linear-gradient(to right,#ff512f  , #dd2476);
+}
